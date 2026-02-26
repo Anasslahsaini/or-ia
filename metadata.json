@@ -1,7 +1,0 @@
-{
-  "name": "Orient IA",
-  "description": "Simulateur d'entretien d'embauche intelligent",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
